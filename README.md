@@ -2,7 +2,7 @@
 <h1 align="center">
     Linux CLI, and HTTP
 </h1>
-<img src="task_linux_cli/screeshot.png" width="100px" height="100px" alt="quiz screenshot">
+<img src="task_linux_cli/screenshot.png" width="100px" height="100px" alt="quiz screenshot">
 <ul>
 <li>Good explanation what is command line in Linux</li>
 <li>Quiz is a must on all stages of this course</li>
