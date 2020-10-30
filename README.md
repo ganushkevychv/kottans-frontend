@@ -16,7 +16,7 @@
 <img src="task_git_collaboration/moduleTwo.png" width="100px" height="100px" alt="quiz screenshot module 2">
 <img src="task_git_collaboration/moduleThree.png" width="100px" height="100px" alt="quiz screenshot module 3">
 <img src="task_git_collaboration/scnGit.png" width="100px" height="100px" alt="quiz screenshot git 1">
-<img src="task_git_collaboration/scnGit1.png" width="100px" height="100px" alt="quiz screenshot git 2">
+<img src="task_git_collaboration/scnGit2.png" width="100px" height="100px" alt="quiz screenshot git 2">
 <ul>
 <li>Good explanation what is Git</li>
 <li>Quiz</li>
