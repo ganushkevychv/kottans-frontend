@@ -23,6 +23,17 @@
 <li>Good explanation what is Git</li>
 <li>Quiz</li>
 <li>Advenced level was pretty hard</li>
-
+</ul>
+<h1 align="center">
+   Intro to HTML and CSS
+</h1>
+<div display: inline-block;>
+<img src="task_html_css_intro/html.png" width="100px" height="100px" alt="module html">
+<img src="task_html_css_intro/css.png" width="100px" height="100px" alt="module css">
+<img src="task_html_css_intro/htmlCss.png" width="100px" height="100px" alt="module html and css">
+</div>
+<ul>
+<li>Good explanation what is HTML and CSS</li>
+<li>Practical tasks</li>
 </ul>
 <!-- AUTO-GENERATED-CONTENT:END -->
