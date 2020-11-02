@@ -40,7 +40,7 @@
    Responsive Web Design
 </h1>
 <div display: inline-block;>
-<img src="task_responsive_web_design/rwd.png" width="100px" height="100px" alt="module html">
+<img src="task_responsive_web_design/rwd.jpg" width="100px" height="100px" alt="module html">
 <img src="task_responsive_web_design/flex.png" width="100px" height="100px" alt="module css">
 </div>
 <ul>
