@@ -36,4 +36,15 @@
 <li>Good explanation what is HTML and CSS</li>
 <li>Practical tasks</li>
 </ul>
+<h1 align="center">
+   Responsive Web Design
+</h1>
+<div display: inline-block;>
+<img src="task_responsive_web_design/rwd.png" width="100px" height="100px" alt="module html">
+<img src="task_responsive_web_design/flex.png" width="100px" height="100px" alt="module css">
+</div>
+<ul>
+<li>Good explanation what is RWD</li>
+<li>Flexbox Froggy is Amazing!</li>
+</ul>
 <!-- AUTO-GENERATED-CONTENT:END -->
